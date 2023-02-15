@@ -1,0 +1,15 @@
+C:\src\c#learningWorkspace\cs11dotnet7\chapter02\bin\Debug\net7.0\chapter02.exe
+C:\src\c#learningWorkspace\cs11dotnet7\chapter02\bin\Debug\net7.0\chapter02.deps.json
+C:\src\c#learningWorkspace\cs11dotnet7\chapter02\bin\Debug\net7.0\chapter02.runtimeconfig.json
+C:\src\c#learningWorkspace\cs11dotnet7\chapter02\bin\Debug\net7.0\chapter02.dll
+C:\src\c#learningWorkspace\cs11dotnet7\chapter02\bin\Debug\net7.0\chapter02.pdb
+C:\src\c#learningWorkspace\cs11dotnet7\chapter02\obj\Debug\net7.0\chapter02.csproj.AssemblyReference.cache
+C:\src\c#learningWorkspace\cs11dotnet7\chapter02\obj\Debug\net7.0\chapter02.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\c#learningWorkspace\cs11dotnet7\chapter02\obj\Debug\net7.0\chapter02.AssemblyInfoInputs.cache
+C:\src\c#learningWorkspace\cs11dotnet7\chapter02\obj\Debug\net7.0\chapter02.AssemblyInfo.cs
+C:\src\c#learningWorkspace\cs11dotnet7\chapter02\obj\Debug\net7.0\chapter02.csproj.CoreCompileInputs.cache
+C:\src\c#learningWorkspace\cs11dotnet7\chapter02\obj\Debug\net7.0\chapter02.dll
+C:\src\c#learningWorkspace\cs11dotnet7\chapter02\obj\Debug\net7.0\refint\chapter02.dll
+C:\src\c#learningWorkspace\cs11dotnet7\chapter02\obj\Debug\net7.0\chapter02.pdb
+C:\src\c#learningWorkspace\cs11dotnet7\chapter02\obj\Debug\net7.0\chapter02.genruntimeconfig.cache
+C:\src\c#learningWorkspace\cs11dotnet7\chapter02\obj\Debug\net7.0\ref\chapter02.dll
