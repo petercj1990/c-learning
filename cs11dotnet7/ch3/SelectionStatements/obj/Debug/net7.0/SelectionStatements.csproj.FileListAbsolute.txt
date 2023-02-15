@@ -1,0 +1,15 @@
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\SelectionStatements\obj\Debug\net7.0\SelectionStatements.csproj.AssemblyReference.cache
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\SelectionStatements\obj\Debug\net7.0\SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\SelectionStatements\obj\Debug\net7.0\SelectionStatements.AssemblyInfoInputs.cache
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\SelectionStatements\obj\Debug\net7.0\SelectionStatements.AssemblyInfo.cs
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\SelectionStatements\obj\Debug\net7.0\SelectionStatements.csproj.CoreCompileInputs.cache
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\SelectionStatements\bin\Debug\net7.0\SelectionStatements.exe
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\SelectionStatements\bin\Debug\net7.0\SelectionStatements.deps.json
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\SelectionStatements\bin\Debug\net7.0\SelectionStatements.runtimeconfig.json
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\SelectionStatements\bin\Debug\net7.0\SelectionStatements.dll
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\SelectionStatements\bin\Debug\net7.0\SelectionStatements.pdb
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\SelectionStatements\obj\Debug\net7.0\SelectionStatements.dll
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\SelectionStatements\obj\Debug\net7.0\refint\SelectionStatements.dll
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\SelectionStatements\obj\Debug\net7.0\SelectionStatements.pdb
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\SelectionStatements\obj\Debug\net7.0\SelectionStatements.genruntimeconfig.cache
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\SelectionStatements\obj\Debug\net7.0\ref\SelectionStatements.dll

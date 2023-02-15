@@ -1,0 +1,15 @@
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\BinaryPractice\bin\Debug\net7.0\BinaryPractice.exe
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\BinaryPractice\bin\Debug\net7.0\BinaryPractice.deps.json
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\BinaryPractice\bin\Debug\net7.0\BinaryPractice.runtimeconfig.json
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\BinaryPractice\bin\Debug\net7.0\BinaryPractice.dll
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\BinaryPractice\bin\Debug\net7.0\BinaryPractice.pdb
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\BinaryPractice\obj\Debug\net7.0\BinaryPractice.csproj.AssemblyReference.cache
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\BinaryPractice\obj\Debug\net7.0\BinaryPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\BinaryPractice\obj\Debug\net7.0\BinaryPractice.AssemblyInfoInputs.cache
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\BinaryPractice\obj\Debug\net7.0\BinaryPractice.AssemblyInfo.cs
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\BinaryPractice\obj\Debug\net7.0\BinaryPractice.csproj.CoreCompileInputs.cache
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\BinaryPractice\obj\Debug\net7.0\BinaryPractice.dll
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\BinaryPractice\obj\Debug\net7.0\refint\BinaryPractice.dll
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\BinaryPractice\obj\Debug\net7.0\BinaryPractice.pdb
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\BinaryPractice\obj\Debug\net7.0\BinaryPractice.genruntimeconfig.cache
+C:\src\c#learningWorkspace\cs11dotnet7\ch3\BinaryPractice\obj\Debug\net7.0\ref\BinaryPractice.dll
